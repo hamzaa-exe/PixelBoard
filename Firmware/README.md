@@ -1,8 +1,3 @@
-Ahh, got it 👍 **PixelBoard is using the Adafruit Sparkle Motion**, not a generic ESP32.
-
-So we should change the firmware README to specifically document the **Sparkle Motion + WLED** setup. Also, since Sparkle Motion has its own pinout, I would **not put a guessed GPIO number** in the README—use the exact GPIO you wired to the WS2812B DIN.
-
-Here’s the corrected version:
 
 # PixelBoard Firmware
 
